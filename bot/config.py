@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "5111306066:AAFnR2RL41aSQnTlHudt1Fc95N67R2lrDQQ"
+    APP_ID = "14250744"
+    API_HASH = "d28c03cd68280676b6c61e710746250b"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "5012193671" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "@movie24i7official"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
